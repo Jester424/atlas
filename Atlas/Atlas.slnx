@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="src/Atlas.Api/Atlas.Api.csproj" Id="8ef2a599-90e2-4240-b3d7-e51cdf2bb79e" />
+  <Project Path="src/Atlas.Core/Atlas.Core.csproj" Id="55200405-c4df-4d98-ba09-4484e45f0021" />
 </Solution>
